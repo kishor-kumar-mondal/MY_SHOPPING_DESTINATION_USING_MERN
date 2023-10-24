@@ -2,6 +2,7 @@
 
 # Installation Process
 unzip file
+Install NPM
 open with vscode
 edit .env file & use port 8080
 open 2 new terminal for frontend & backend
