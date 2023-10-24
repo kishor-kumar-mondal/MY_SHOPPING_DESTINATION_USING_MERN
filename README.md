@@ -9,7 +9,7 @@
 6. For backend type cmd 1. cd backend 2. yarn start.
 7. For frontend type cmd 1. cd frontend 2. yarn start.
 8. Use mongodb atlas cluster for database.
-9. Happy coding____KISHOR KUMAR.
+   Happy coding____KISHOR KUMAR.
 
 
 # Full-Stack-Ecommerce
