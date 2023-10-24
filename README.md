@@ -1,15 +1,15 @@
 # MY_SHOPPING_DESTINATION_USING_MERN
 
 # Installation Process
-unzip file
-Install NPM
-open with vscode
-edit .env file & use port 8080
-open 2 new terminal for frontend & backend
-for backend type cmd 1. cd backend 2. yarn start
-for frontend type cmd 1. cd frontend 2. yarn start
-use mongodb atlas cluster for database
-happy coding____KISHOR KUMAR
+unzip file.
+Install NPM.
+open with vscode.
+edit .env file & use port 8080.
+open 2 new terminal for frontend & backend.
+for backend type cmd 1. cd backend 2. yarn start.
+for frontend type cmd 1. cd frontend 2. yarn start.
+use mongodb atlas cluster for database.
+happy coding____KISHOR KUMAR.
 
 
 # Full-Stack-Ecommerce
